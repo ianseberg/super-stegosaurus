@@ -37,7 +37,7 @@ sections:
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
-        title: Ambiente Facebook
+        title: Facebook & Instagram Ads
         title_align: center
       - image: images/logo-3.svg
         image_alt: Gatsby logo
