@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Scegli la tua opzione
-    subtitle: Optional hero section subtitle
+    subtitle: Optional hero section subtitl
     align: center
     padding_top: large
     padding_bottom: small
