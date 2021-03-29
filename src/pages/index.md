@@ -107,7 +107,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
+        image: images/details-4-office-team-work.gif
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
