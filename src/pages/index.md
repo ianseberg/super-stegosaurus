@@ -16,7 +16,7 @@ sections:
       - label: Maggiori informazioni
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/Social-Media-Marketing-GIF.gif
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
