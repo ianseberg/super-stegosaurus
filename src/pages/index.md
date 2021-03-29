@@ -24,53 +24,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Creiamo sinergie con servizi differenti
-    subtitle: Alcune delle piattaforme su cui operiamo
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-        title: Google Marketing Platform
-        title_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-        title: Facebook & Instagram Ads
-        title_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-        title: Webdesign
-        title_align: center
-      - image: images/linkedin-logo.jpeg
-        image_alt: Sanity logo
-        image_align: center
-        title: LinkedIn Marketing Platform
-        title_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
-        title: Twitter Ads
-        title_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
-        title: TikTok Ads
-        title_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-        title: Mail Marketing
-        title_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    background_color: secondary
   - type: features_section
     title: Digitalizzazione a 360°
     subtitle: I servizi che offriamo
@@ -128,6 +81,53 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: grid_section
+    title: Creiamo sinergie con servizi differenti
+    subtitle: Alcune delle piattaforme su cui operiamo
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Contentful logo
+        image_align: center
+        title: Google Marketing Platform
+        title_align: center
+      - image: images/logo-2.svg
+        image_alt: Netlify logo
+        image_align: center
+        title: Facebook & Instagram Ads
+        title_align: center
+      - image: images/logo-3.svg
+        image_alt: Gatsby logo
+        image_align: center
+        title: Webdesign
+        title_align: center
+      - image: images/linkedin-logo.jpeg
+        image_alt: Sanity logo
+        image_align: center
+        title: LinkedIn Marketing Platform
+        title_align: center
+      - image: images/logo-5.svg
+        image_alt: DatoCMS logo
+        image_align: center
+        title: Twitter Ads
+        title_align: center
+      - image: images/logo-6.svg
+        image_alt: Next.js logo
+        image_align: center
+        title: TikTok Ads
+        title_align: center
+      - image: images/logo-7.svg
+        image_alt: Gridsome logo
+        image_align: center
+        title: Mail Marketing
+        title_align: center
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    background_color: secondary
   - type: features_section
     features:
       - title: >-
