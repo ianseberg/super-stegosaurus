@@ -42,6 +42,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
+        title: Web development
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
