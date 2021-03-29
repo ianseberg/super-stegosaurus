@@ -46,6 +46,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
+        title: LinkedIn Marketing Platform
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
