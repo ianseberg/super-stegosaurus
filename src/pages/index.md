@@ -25,7 +25,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Creiamo sinergie con servizi differenti
     subtitle: Alcune delle piattaforme su cui operiamo
     align: center
     grid_items:
