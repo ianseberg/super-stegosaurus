@@ -62,6 +62,7 @@ sections:
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
+        title: Mail Marketing
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
