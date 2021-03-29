@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Comunicazione, consulenza e marketing online'
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      Un'agenzia creativa che ti aiuta a comunicare e a far crescere clienti e
+      fatturato.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
