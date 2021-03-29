@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Scegli il tuo piano
-    subtitle: Optional hero section subtitl
+    subtitle: Qui sono riportati alcuni pacchetti con soluzioni base
     align: center
     padding_top: large
     padding_bottom: small
