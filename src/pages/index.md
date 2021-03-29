@@ -10,7 +10,7 @@ sections:
       Soluzioni digitali su misura per la tua attività per raggiungere un
       mercato più ampio e più coinvolto.
     actions:
-      - label: Try Free
+      - label: Scopri i pacchetti
         url: /pricing
         style: primary
       - label: Learn More
