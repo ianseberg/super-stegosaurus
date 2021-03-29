@@ -165,7 +165,9 @@ sections:
     background_color: none
   - type: grid_section
     title: Creiamo sinergie con servizi differenti
-    subtitle: Alcune delle piattaforme su cui operiamo
+    subtitle: >-
+      Alcune delle piattaforme su cui operiamo ed alcuni strumenti che
+      utilizziamo
     align: center
     grid_items:
       - image: images/logo-1.svg
