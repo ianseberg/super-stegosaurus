@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Comunicazione, consulenza e marketing online'
     subtitle: >-
-      Un'agenzia creativa che ti aiuta a comunicare e a far crescere clienti e
+      Un partner creativo che ti aiuta a comunicare e a far crescere clienti e
       fatturato.
     content: >
       Soluzioni digitali su misura per la tua attività per raggiungere un
