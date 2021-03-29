@@ -54,6 +54,7 @@ sections:
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
+        title: TikTok Ads
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
