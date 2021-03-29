@@ -74,7 +74,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: e-Commerce
+      - title: e-Commerce starter
         subtitle: lorem-ipsum
         title_align: left
         content: >-
