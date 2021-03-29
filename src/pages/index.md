@@ -6,9 +6,9 @@ sections:
     subtitle: >-
       Un'agenzia creativa che ti aiuta a comunicare e a far crescere clienti e
       fatturato.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Soluzioni digitali su misura per la tua attività per raggiungere un
+      mercato più ampio e più coinvolto.
     actions:
       - label: Try Free
         url: /pricing
