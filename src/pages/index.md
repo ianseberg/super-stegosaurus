@@ -13,7 +13,7 @@ sections:
       - label: Scopri i pacchetti
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Maggiori informazioni
         url: /features
         style: secondary
     image: images/classic/hero.png
