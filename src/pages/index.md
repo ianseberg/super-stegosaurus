@@ -57,7 +57,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Digitalizzazione a 360°
     subtitle: I servizi che offriamo
     features:
       - title: The Big Title For the Feature
