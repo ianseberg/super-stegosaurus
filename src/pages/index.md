@@ -42,7 +42,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
-        title: Siti internet
+        title: Webdesign
         title_align: center
       - image: images/linkedin-logo.jpeg
         image_alt: Sanity logo
