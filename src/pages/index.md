@@ -60,7 +60,7 @@ sections:
     title: Digitalizzazione a 360°
     subtitle: I servizi che offriamo
     features:
-      - title: The Big Title For the Feature
+      - title: Digital marketing
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
