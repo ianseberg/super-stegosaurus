@@ -160,7 +160,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is a Call to Action
+    title: Vuoi lanciare una nuova campagna?
     content: >
       Visiona i nostri piani e contattaci per scoprire come possiamo aiutarti a
       realizzare una strategia di successo per il tuo brand.
