@@ -162,8 +162,8 @@ sections:
   - type: cta_section
     title: Vuoi lanciare una nuova campagna?
     content: >
-      Contattaci per scoprire come possiamo aiutarti a realizzare una strategia
-      di successo per il tuo brand.
+      Visiona i nostri piani e contattaci per scoprire come possiamo aiutarti a
+      realizzare una strategia di successo per il tuo brand.
     actions:
       - label: Confronta i piani
         url: /pricing
