@@ -211,7 +211,7 @@ sections:
         title: Grafiche 3D
         content_align: center
         title_align: center
-      - title: lorem-ipsum
+      - title: Adobe
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
