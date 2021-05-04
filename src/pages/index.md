@@ -183,7 +183,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
-        title: Webdesign
+        title: App | Webdesign
         title_align: center
       - image: images/linkedin-logo.jpeg
         image_alt: Sanity logo
