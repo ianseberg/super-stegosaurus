@@ -209,6 +209,7 @@ sections:
         image_alt: Git logo
         image_align: center
         title: Grafiche 3D
+        content_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
