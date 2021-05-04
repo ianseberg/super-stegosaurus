@@ -213,7 +213,7 @@ sections:
         title_align: center
       - title: Adobe
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
