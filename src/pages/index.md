@@ -205,7 +205,7 @@ sections:
         image_align: center
         title: Mail Marketing
         title_align: center
-      - image: images/logo-8.svg
+      - image: images/1024px-Blender_logo_no_text.svg
         image_alt: Git logo
         image_align: center
         title: Grafiche 3D
