@@ -270,7 +270,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    actions_width: fifty
+    actions_width: fourty
 seo:
   title: Features
   description: This is the features page
