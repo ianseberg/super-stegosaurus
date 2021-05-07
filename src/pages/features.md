@@ -148,7 +148,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Content strategy
+      - title: Content Strategy
         subtitle: lorem-ipsum
         title_align: left
         content: >-
