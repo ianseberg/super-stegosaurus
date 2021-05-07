@@ -78,15 +78,13 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          \---
+          \*\*\*
 
 
           \###
 
 
           $9 per month, billed yearly
-
-
 
 
           \* Et semper leo mattis orci conubia congue \* Quisque eleifend
