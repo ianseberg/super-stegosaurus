@@ -2,7 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: Conttattaci
+    title: Contattaci
     subtitle: The optional subtitle
     align: center
     padding_top: medium
