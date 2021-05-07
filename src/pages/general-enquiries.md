@@ -49,7 +49,7 @@ sections:
           - Other
       - input_type: textarea
         name: messaggio
-        label: Message
+        label: Messaggio
         default_value: Your message
       - input_type: checkbox
         name: consent
