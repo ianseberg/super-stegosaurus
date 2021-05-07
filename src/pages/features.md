@@ -124,7 +124,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: App e W
+      - title: Sviluppo App e Siti
         subtitle: lorem-ipsum
         title_align: left
         content: >-
