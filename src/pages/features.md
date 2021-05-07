@@ -256,7 +256,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Vuoi lanciare una nuova campagna?
+    title: Hai un progetto in mente?
     content: >
       Visiona i nostri piani e contattaci per scoprire come possiamo aiutarti a
       realizzare una strategia di successo per il tuo brand.
