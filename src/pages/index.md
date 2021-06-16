@@ -138,10 +138,11 @@ sections:
         image_has_padding: true
       - title: Conosciamo il digitale
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Abbiamo personalmente lanciato e aiutato le piccole aziende a far
+          aumentare i ricavi solo con il digitale - al pari dei grandi
+          competitor che stavano già facendo bene sul mercato. Il digitale è un
+          grande equalizzatore e noi sappiamo come funziona!
         content_align: left
         actions:
           - label: Learn More
