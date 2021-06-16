@@ -93,7 +93,9 @@ sections:
     background_color: primary
   - type: grid_section
     title: Perchè lavorare con noi?
-    subtitle: Grid Section Example
+    subtitle: >-
+      Abbiamo aiutato brand in tutta Italia e gestito budget di diverse migliaia
+      di euro
     grid_items:
       - title: Esperienza
         title_align: left
