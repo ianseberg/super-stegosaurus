@@ -117,10 +117,11 @@ sections:
         image_has_padding: true
       - title: Conveniente
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Crediamo in un sistema snello ed è per questo che i nostri costi
+          generali sono vicini allo zero. Siamo un'agenzia conveniente, ma offre
+          le stesse (a volte MIGLIORI) soluzioni digitali dei nostri concorrenti
+          sul mercato.
         content_align: left
         actions:
           - label: Learn More
