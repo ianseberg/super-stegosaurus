@@ -83,9 +83,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+      - title: “Viva i pezzi e le sudamericane.”
         subtitle: 'Stefano Brigli Bongi, CEO at Kampaay'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
