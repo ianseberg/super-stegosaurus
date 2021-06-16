@@ -115,7 +115,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Conveniente
+      - title: Convenienza
         title_align: left
         content: >
           Crediamo in un sistema snello ed è per questo che i nostri costi
