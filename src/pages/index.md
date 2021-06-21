@@ -198,7 +198,7 @@ sections:
         image_align: center
         title: Twitter Ads
         title_align: center
-      - image: images/charming-cedar.svg
+      - image: images/ttlogo.png
         image_alt: Next.js logo
         image_align: center
         title: TikTok Ads
