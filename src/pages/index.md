@@ -173,7 +173,7 @@ sections:
       utilizziamo
     align: center
     grid_items:
-      - image: images/splendid-mustard.svg
+      - image: images/Risorsa 4@0.75x.png
         image_alt: Contentful logo
         image_align: center
         title: Google Marketing Platform
