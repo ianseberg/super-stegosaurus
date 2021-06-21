@@ -178,7 +178,7 @@ sections:
         image_align: center
         title: Google Marketing Platform
         title_align: center
-      - image: images/logo-3.png
+      - image: images/fblogo.png
         image_alt: Netlify logo
         image_align: center
         title: Facebook & Instagram Ads
