@@ -260,12 +260,12 @@ sections:
     title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Stefano Brigli,** *CEO, Kampaay*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
