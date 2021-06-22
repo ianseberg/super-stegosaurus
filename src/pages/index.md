@@ -244,7 +244,7 @@ sections:
         type: grid_item
         image: images/adobelogo.png
       - title: Realtà aumentata
-        title_align: left
+        title_align: center
         content: |2
            
         content_align: left
