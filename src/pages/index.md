@@ -258,7 +258,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/sparklogo.png
-      - title: lorem-ipsum
+      - title: Data Science
         title_align: left
         content: |2
            
