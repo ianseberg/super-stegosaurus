@@ -294,7 +294,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: Aggiornamenti più recenti
+    title: Blog
     subtitle: Aggiornamenti più recenti
     actions:
       - label: Vai al blog
