@@ -244,7 +244,6 @@ sections:
         type: grid_item
         image: images/adobelogo.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: |2
            
