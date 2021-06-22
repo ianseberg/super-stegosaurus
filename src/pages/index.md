@@ -203,7 +203,7 @@ sections:
         image_align: center
         title: TikTok Ads
         title_align: center
-      - title: lorem-ipsum
+      - title: Influencer Marketing
         subtitle: lorem-ipsum
         title_align: left
         content: |
