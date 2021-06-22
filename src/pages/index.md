@@ -230,7 +230,7 @@ sections:
         title: Grafiche 2D|3D
         content_align: center
         title_align: center
-      - title: Suite Adobe
+      - title: Adobe Creative Suite
         title_align: center
         content_align: left
         actions: []
