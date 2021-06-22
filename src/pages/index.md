@@ -229,7 +229,6 @@ sections:
         content_align: center
         title_align: center
       - title: Suite Adobe
-        subtitle: lorem-ipsum
         title_align: center
         content_align: left
         actions: []
