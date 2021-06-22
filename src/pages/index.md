@@ -295,7 +295,7 @@ sections:
     background_color: primary
   - type: blog_feed_section
     title: Aggiornamenti più recenti
-    subtitle: Blog Feed Section Example
+    subtitle: Aggiornamenti più recenti
     actions:
       - label: Vai al blog
         url: /blog
