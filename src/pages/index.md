@@ -259,7 +259,7 @@ sections:
         type: grid_item
         image: images/sparklogo.png
       - title: Data Science
-        title_align: left
+        title_align: center
         content: |2
            
         content_align: left
