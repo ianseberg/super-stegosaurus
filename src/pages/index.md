@@ -229,7 +229,7 @@ sections:
         title: Grafiche 2D|3D
         content_align: center
         title_align: center
-      - title: Adobe
+      - title: Suite Adobe
         subtitle: lorem-ipsum
         title_align: center
         content_align: left
