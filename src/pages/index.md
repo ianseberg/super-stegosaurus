@@ -204,7 +204,6 @@ sections:
         title: TikTok Ads
         title_align: center
       - title: Influencer Marketing
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           ##
