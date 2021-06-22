@@ -190,7 +190,7 @@ sections:
         title_align: center
       - image: images/lkdnlogo.png
         image_alt: Sanity logo
-        image_align: center
+        image_align: left
         title: LinkedIn Marketing Platform
         title_align: center
         image_width: twenty-five
