@@ -183,7 +183,7 @@ sections:
         image_align: center
         title: Facebook & Instagram Ads
         title_align: center
-      - image: images/logo-3.svg
+      - image: images/gjslogo.png
         image_alt: Gatsby logo
         image_align: center
         title: App | Webdesign
