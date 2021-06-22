@@ -272,7 +272,6 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/datalogo.png
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
