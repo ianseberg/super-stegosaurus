@@ -188,7 +188,7 @@ sections:
         image_align: center
         title: App | Webdesign
         title_align: center
-      - image: images/linkedin-logo.jpeg
+      - image: images/lkdnlogo.png
         image_alt: Sanity logo
         image_align: center
         title: LinkedIn Marketing Platform
