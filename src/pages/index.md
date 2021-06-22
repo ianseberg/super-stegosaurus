@@ -188,7 +188,7 @@ sections:
         image_align: center
         title: App | Webdesign
         title_align: center
-      - image: images/lkdnlogo.png
+      - image: images/bllogo.png
         image_alt: LinkedIn logo
         image_align: center
         title: LinkedIn Marketing Platform
