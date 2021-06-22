@@ -243,7 +243,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/adobelogo.png
-      - title: lorem-ipsum
+      - title: Realtà aumentata
         title_align: left
         content: |2
            
