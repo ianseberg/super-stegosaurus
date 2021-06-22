@@ -294,7 +294,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: What's New
+    title: Aggironamenti più recenti
     subtitle: Blog Feed Section Example
     actions:
       - label: Vai al blog
