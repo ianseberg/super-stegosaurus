@@ -226,7 +226,7 @@ sections:
       - image: images/1024px-Blender_logo_no_text.svg.png
         image_alt: Git logo
         image_align: center
-        title: Grafiche 3D
+        title: Grafiche 2D|3D
         content_align: center
         title_align: center
       - title: Adobe
