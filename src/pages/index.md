@@ -218,6 +218,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/infllogo.png
       - image: images/mclogo.png
         image_alt: Gridsome logo
         image_align: center
