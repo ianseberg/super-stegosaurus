@@ -193,6 +193,7 @@ sections:
         image_align: center
         title: LinkedIn Marketing Platform
         title_align: center
+        image_width: thirty-three
       - image: images/twlogo.png
         image_alt: DatoCMS logo
         image_align: center
