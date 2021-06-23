@@ -72,7 +72,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Consulenza e training
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: >-
+          Forniamo una gamma unica di servizi di formazione sul marketing
+          digitale e di consulenze.
         content: >
           We provide a unique range of digital marketing training sessions and
           consultancy days that can be delivered at your offices. These courses
