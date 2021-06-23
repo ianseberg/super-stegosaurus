@@ -51,10 +51,17 @@ sections:
         media_position: right
         media_width: fifty
       - title: Comunicazione
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+
+
+          ##### Gli strumenti di comunicazione sono in continua evoluzione.
+          Creiamo siti web, siamo esperti di social media communication, web
+          reputation e realizziamo strategie per ogni esigenza legata alla rete.
+          Portiamo innovazione con le strategie digitali e con gli strumenti
+          tecnici per realizzarle aiutando i nostri clienti ad affermare i loro
+          prodotti/servizi attraverso strategie di comunicazione pensate per
+          distinguere e qualificare il loro business e far emergere le
+          competenze distintive dell’organizzazione.
         actions:
           - label: Approfondisci
             url: /style-guide
