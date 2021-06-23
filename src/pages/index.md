@@ -76,13 +76,10 @@ sections:
           Forniamo una gamma unica di servizi di formazione sul marketing
           digitale e di consulenze.
         content: >
-          We provide a unique range of digital marketing training sessions and
-          consultancy days that can be delivered at your offices. These courses
-          include digital marketing strategy, paid advertising, SEO, WordPress,
-          conversion rate optimisation. Available as half-day and full-day
-          sessions, we can provide a hands-on training session for individuals
-          or an entire team. The aim of these sessions is to give delegates the
-          confidence and skills to implement key digital marketing techniques.
+          Disponibili come sessioni di mezza giornata e giornata intera, di
+          formazione pratica per singoli o un intero team. L'obiettivo di queste
+          sessioni è quello di dare agli interessati la fiducia e le competenze
+          per implementare le principali tecniche di marketing digitale.
         actions:
           - label: Scopri di più
             url: /style-guide
