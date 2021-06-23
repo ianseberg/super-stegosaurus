@@ -221,7 +221,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 'Grafiche '
+      - title: 'Grafiche 2D, 3D e '
         subtitle: lorem-ipsum
         title_align: left
         content: >-
