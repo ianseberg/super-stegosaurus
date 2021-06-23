@@ -32,10 +32,13 @@ sections:
         subtitle: >-
           Perché il digitale? 6.58 miliardi di consumatori sono online e
           potrebbero diventare il tuo mercato
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ci sono 6.58 miliardi di dispositivi connessi nel mondo. Il digitale è
+          la nuova piattaforma dove essere presenti e partecipare, il nuovo
+          marketplace.
+
+          Questa è l'età in cui lo schermo più visualizzato è quello nelle tue
+          mani.
         actions:
           - label: Scopri tutti i servizi
             url: /style-guide
