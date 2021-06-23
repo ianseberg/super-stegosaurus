@@ -29,7 +29,9 @@ sections:
     subtitle: I servizi che offriamo
     features:
       - title: Digital marketing
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Perché il digitale? 6.58 miliardi di consumatori sono online e
+          potrebbero diventare il tuo mercato
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
