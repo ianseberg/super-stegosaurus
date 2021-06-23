@@ -291,7 +291,7 @@ sections:
     grid_gap_vert: medium
     background_color: none
   - type: cta_section
-    title: Lorem ipsum
+    title: Hai un progetto in mente?
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
