@@ -60,7 +60,7 @@
         "logo": "images/Datsu Logo v4.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Azienda",
+        "primary_nav_title": "Datsu",
         "primary_nav_links": [
             {
                 "label": "About",
