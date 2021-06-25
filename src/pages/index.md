@@ -331,7 +331,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: '#GODIGITAL'
+    title: Il tuo brand sopravviverà all'innovazione?
     content: >
       Posiziona correttamente il tuo brand o prodotto/servizio online per avere
       una posizione avvantaggiata prima che sia imprescindibile volgersi verso
