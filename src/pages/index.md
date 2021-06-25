@@ -98,7 +98,7 @@ sections:
     features:
       - title: “Viva i pezzi e le sudamericane.”
         subtitle: 'Stefano Brigli Bongi, CEO at Kampaay'
-        image: images/stefano-brigli-bongi.jpeg
+        image: images/Datsu Logo only.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
