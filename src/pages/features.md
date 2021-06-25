@@ -122,7 +122,6 @@ sections:
         image_align: left
         image_has_padding: true
       - title: Sviluppo App e siti
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
