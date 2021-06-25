@@ -97,7 +97,7 @@ sections:
   - type: features_section
     features:
       - title: “Dal reale al digitale - ”
-        subtitle: 'Stefano Brigli Bongi, CEO at Kampaay'
+        subtitle: 'Daniele, fondatore di Datsu'
         image: images/Datsu Logo only copia.png
         image_alt: Brandon Guidelines
         media_position: right
