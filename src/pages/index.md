@@ -96,7 +96,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “Viva i pezzi e le sudamericane.”
+      - title: “Dal reale al digitale - ”
         subtitle: 'Stefano Brigli Bongi, CEO at Kampaay'
         image: images/Datsu Logo only copia.png
         image_alt: Brandon Guidelines
