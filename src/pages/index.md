@@ -140,7 +140,8 @@ sections:
           Crediamo in un sistema snello ed è per questo che i nostri costi
           generali sono vicini allo zero. Siamo un'agenzia conveniente, ma offre
           le stesse (a volte MIGLIORI) soluzioni digitali dei nostri concorrenti
-          sul mercato.
+          sul mercato (senza fare neanche considerare il marketing
+          tradizionale).
         content_align: left
         actions:
           - label: Learn More
