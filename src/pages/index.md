@@ -335,10 +335,10 @@ sections:
       Posiziona correttamente il tuo brand o prodotto/servizio online per avere
       una posizione avvantaggiata prima che sia imprescindibile volgersi verso
       il digitale!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Posiziona correttamente il tuo brand o prodotto/servizio online per avere
+      una posizione avvantaggiata prima che sia imprescindibile volgersi verso
+      il digitale!
     actions:
       - label: Consulta i piani
         url: /pricing
