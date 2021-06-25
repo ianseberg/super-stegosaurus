@@ -76,7 +76,7 @@ sections:
           Forniamo una gamma unica di servizi di formazione sul marketing
           digitale e di consulenze.
         content: >
-          Disponibili come sessioni di mezza giornata e giornata intera, di
+          Disponibili sia per sessioni di mezza giornata che giornata intera, di
           formazione pratica per singoli o un intero team. L'obiettivo di queste
           sessioni è quello di dare agli interessati la fiducia e le competenze
           per implementare le principali tecniche di marketing digitale.
