@@ -331,7 +331,10 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: >-
+      Posiziona correttamente il tuo brand o prodotto/servizio online per avere
+      una posizione avvantaggiata prima che sia imprescindibile volgersi verso
+      il digitale!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
