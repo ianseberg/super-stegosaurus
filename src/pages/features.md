@@ -43,7 +43,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: I servizi che offriamo
-    subtitle: Grid Section Example
+    subtitle: Affidati a noi per ottenere sfruttare un know-how verticale unico
     grid_items:
       - title: PPC Advertising
         title_align: left
