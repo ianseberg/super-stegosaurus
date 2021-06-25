@@ -42,7 +42,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Cards Section
+    title: I servizi che offriamo
     subtitle: Grid Section Example
     grid_items:
       - title: PPC Advertising
