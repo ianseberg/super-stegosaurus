@@ -331,10 +331,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: >-
-      Posiziona correttamente il tuo brand o prodotto/servizio online per avere
-      una posizione avvantaggiata prima che sia imprescindibile volgersi verso
-      il digitale!
+    title: '#GODIGITAL'
     content: >
       Posiziona correttamente il tuo brand o prodotto/servizio online per avere
       una posizione avvantaggiata prima che sia imprescindibile volgersi verso
